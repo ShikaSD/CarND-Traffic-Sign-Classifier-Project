@@ -30,7 +30,7 @@ The goals / steps of this project are the following:
 [image15]: ./img/feature_maps.png "feature_maps"
 
 ---
-Link to my [project code](https://github.com/ShikaSD/CarND-Traffic-Sign-Classifier-Project/blob/master/Traffic_Sign_Classifier.ipynb), [exported html](https://rawgit.com/ShikaSD/CarND-Traffic-Sign-Classifier-Project/master/Traffic_Sign_Classifier.html).
+Link to my [project code](https://github.com/ShikaSD/CarND-Traffic-Sign-Classifier-Project/blob/master/Traffic_Sign_Classifier.ipynb), [exported html](https://rawgit.com/ShikaSD/CarND-Traffic-Sign-Classifier-Project/master/report.html).
 
 ### Data Set Summary & Exploration
 
